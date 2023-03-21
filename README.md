@@ -2,4 +2,7 @@
 
 > An awesome project.
 
-尝试修改，看看是否成功 hh
+1, 尝试修改，看看是否成功 hh
+
+2, 尝试 netlify 加速 
+
